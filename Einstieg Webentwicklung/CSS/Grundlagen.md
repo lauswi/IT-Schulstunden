@@ -8,7 +8,7 @@ CSS steht für Cascading Style Sheet. Es handelt sich hierbei um eine Programmie
 Es gibt verschiedene Möglichkeiten CSS in das Coding einer Webseite einzubringen. 
 
 Zum Beispiel können die CSS Funktionen als Attribute in das HTML Skript eingebaut werden. 
-```css
+```html
 <h1 style="color: orange;"> Irgendeine Überschrift</h1>
 ```
 Der Text "Irgendeine Überschirft" wirde jetzt in orange angezeigt werden.
