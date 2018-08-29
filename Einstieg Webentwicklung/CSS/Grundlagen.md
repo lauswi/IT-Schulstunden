@@ -93,7 +93,8 @@ Hier wird beispielsweise Rot als Farbe angegeben.
 
 ## Das Box Modell
 
-[[boxmodell.png]](boxmodell.png)
+Wie im [Bild](https://github.com/lauswi/IT-Schulstunden/blob/master/Einstieg%20Webentwicklung/CSS/boxmodell.PNG) des Boxmodells zu sehen ist, kann die Oberfläche einer Webseite in verschiedene Bereiche eingeteilt werden um die Anordnung der verschiedenen Elemente in CSS zu bearbeiten. 
+
 
 
 
