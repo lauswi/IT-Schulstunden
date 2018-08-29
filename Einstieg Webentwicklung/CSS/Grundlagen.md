@@ -93,7 +93,7 @@ Hier wird beispielsweise Rot als Farbe angegeben.
 
 ## Das Box Modell
 
-![Boxmodell](IT-Schulstunden/Einstieg Webentwicklung/CSS/boxmodell.png)
+boxmodell.png
 
 
 
