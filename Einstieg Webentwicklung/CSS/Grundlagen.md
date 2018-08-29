@@ -17,4 +17,23 @@ Der Text "Irgendeine Überschirft" wird jetzt in orange angezeigt.
 Da diese Methode aber bei vielen CSS Befehlen unübersichtlich wird, sollte CSS extern eingebunden werden.
 ### Externe Einbindung
 
+Im `<head>` des HTML Dokuments muss eine Referenz auf das CSS Dokument eingebunden werden.
+```html
+<head>
+  <link rel="stylsheet" href="cssdokument.css">
+</head>
+```
+
+Kann für einen bestimmten Tag ein Design festgelegt werden, also zum Beispiel für alle Überschriften kann dieser im CSS Dokument als Selector definiert werden.
+
+Bsp.: 
+```css
+h1{
+  color: green;
+  background-color: aqua;
+  font-family: Arial;
+}
+```
+
+Alle Überschirften mit dem Tag `<h1>` würden hiernach mit grüner schriftfarbe, blauer Hintergrundfarbe und in der schirftart arial angezeigt. 
 
