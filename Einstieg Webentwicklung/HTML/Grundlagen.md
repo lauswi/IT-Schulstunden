@@ -56,6 +56,11 @@ Zum Beispiel:
 ``` html
 <h1 align="center"> Eine zentrierte Überschirft </h1>
 ```
+Außerdem gibt es folgende Attribute:
+
+- alt     = alternative beschreibung eines Bildes
+- align   = Position (left, center, right)
+- title   = definiert Information über ein Element
 
 ## Grafiken einbinden
 
@@ -96,7 +101,7 @@ Bsp.:
 ```html 
 <a href = "http://www.irgendeinewebseite.de/" target="_blank"> Text des Links </a>
 ```
-
+href ist hier genau wie alt oder align ein Attribut.
 ## Formulare
 
 Das Element `<form>... </form>` definiert ein Formular. 
@@ -113,7 +118,7 @@ Beispiel:
   <input type= "submit">
 </form>
 ```
-
+`<br>` macht einen Zeilenumbruch
 Durch submit kann die Eingabe des Formulars bestätigt werden.
   
   
