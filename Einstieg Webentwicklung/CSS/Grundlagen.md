@@ -93,7 +93,7 @@ Hier wird beispielsweise Rot als Farbe angegeben.
 
 ## Das Box Modell
 
-![] (boxmodell.png)
+![Boxmodell](boxmodell.png)
 
 
 
