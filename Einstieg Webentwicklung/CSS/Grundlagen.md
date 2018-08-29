@@ -95,7 +95,19 @@ Hier wird beispielsweise Rot als Farbe angegeben.
 
 Wie im [Bild](https://github.com/lauswi/IT-Schulstunden/blob/master/Einstieg%20Webentwicklung/CSS/boxmodell.PNG) des Boxmodells zu sehen ist, kann die Oberfläche einer Webseite in verschiedene Bereiche eingeteilt werden um die Anordnung der verschiedenen Elemente in CSS zu bearbeiten. 
 
+Ein `<div>` Element kann beispielsweise folgendermaßen bearbeitet werden:
 
+```css
+div{
+  width: 300px;
+  height: 150px;
+  padding: 20px;
+  border: 2px solid aqua;
+  margin: 40px;
+}
+```
+
+Die Elemente können außerdem links, rechts, unten oder oben unterschiedlich groß sein, wie zum Beispiel durch den Befehl `margin-top`.
 
 
 
