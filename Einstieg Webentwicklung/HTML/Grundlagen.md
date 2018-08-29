@@ -47,3 +47,23 @@ Hierbei gibt es verschiedene Textformate, die auch durch die Art der Tags festge
 
 ## Attribute
 
+Es gibt unzählige, unterschiedliche Funktionen, die als Attribute bezeichnet werden. 
+
+Zum Beispiel: 
+``` html
+<h1 align="center"> Eine zentrierte Überschirft </h1>
+```
+
+## Grafiken einbinden
+
+###### Einbinden von Bildern
+
+``` html
+<img src="http://www.link-zu-einem-bild.png">
+<img src="/bilder/bild.png">
+```
+
+Es kann hier entweder ein Link zu einem Bild von einer Internetseite oder ein Dateipfad für ein Bild von deinem Rechner angegeben werden. Gibst du einen Dateipfad von deinem Rechner an achte darauf, dass du einen sinnvollen Speicherort wählst. 
+
+
+
