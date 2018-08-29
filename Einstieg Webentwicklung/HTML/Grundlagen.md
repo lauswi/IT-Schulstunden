@@ -94,7 +94,7 @@ Bsp.:
 ## Verlinkungen
 Über den Tag `<a> ... </a>` lassen sich Links einbinden. 
 ```html 
-< a href = "http://www.irgendeinewebseite.de/" target="_blank"> Text des Links </a>
+<a href = "http://www.irgendeinewebseite.de/" target="_blank"> Text des Links </a>
 ```
 
 ## Formulare
