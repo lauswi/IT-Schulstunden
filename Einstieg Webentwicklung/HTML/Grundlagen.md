@@ -4,7 +4,7 @@ Was genau ist [HTML](https://de.wikipedia.org/wiki/Hypertext_Markup_Language) un
 
 ## Aufbau einer Webseite
 
-Es gibt im HTML Code immer einen Start-Tag und einen End-Tag. 
+Es gibt im HTML Code immer einen Start-Tag `<start-tag>` und einen End-Tag `</end-tag>`. 
 Bsp.: 
 
 ```html run
