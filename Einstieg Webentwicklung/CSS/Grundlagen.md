@@ -13,4 +13,8 @@ Zum Beispiel können die CSS Funktionen als Attribute in das HTML Skript eingeba
 ```
 Der Text "Irgendeine Überschirft" wirde jetzt in orange angezeigt werden.
 
-Da diese Methode aber bei 
+
+Da diese Methode aber bei vielen CSS Befehlen unübersichtlich wird, sollte folgende Methode angewendet werden:
+### Externe Einbindung
+
+
