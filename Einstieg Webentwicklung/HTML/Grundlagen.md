@@ -2,7 +2,7 @@
 
 Was genau ist [HTML](https://de.wikipedia.org/wiki/Hypertext_Markup_Language) und wofür wird es verwendet? 
 
-HTML ist eine Programmiersprache, die zur Gliederung einer Websiete verwendet wird. 
+HTML steht für Hypertext Markup Language. Bei der Programmiersprache, geht es um die Gliederung einer Websiete. 
 
 ## Aufbau einer Webseite
 
