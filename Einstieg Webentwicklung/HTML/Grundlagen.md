@@ -6,7 +6,7 @@ Was genau ist [HTML](https://de.wikipedia.org/wiki/Hypertext_Markup_Language) un
 
 Es gibt im HTML Code immer einen Start-Tag `<start-tag>` und einen End-Tag `</end-tag>`. 
 
-```html run
+```html
 
 <html>
   <head>
@@ -26,7 +26,7 @@ Hierbei gibt es verschiedene Textformate, die auch durch die Art der Tags festge
 `<h1> ... </h1>` = Überschrift
 `<p> ... </p>` = Fließtext
 
-``` html run
+``` html
 <html>
   <head>
         <title> Meine erste Webseite </title>
@@ -42,7 +42,7 @@ Hierbei gibt es verschiedene Textformate, die auch durch die Art der Tags festge
 </html>
 ```
 
-`<meta charset= "utf-8"/>` macht es möglich, dass Umlaute, wie Ü, Ä, Ö o. ä. angezeigt werden
+`<meta charset= "utf-8"/>` macht es möglich, dass Umlaute, wie Ü, Ä, Ö... angezeigt werden
 
 ## Attribute
 
