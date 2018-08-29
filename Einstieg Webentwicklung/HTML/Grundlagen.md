@@ -118,7 +118,8 @@ Beispiel:
   <input type= "submit">
 </form>
 ```
-`<br>` macht einen Zeilenumbruch
+`<br>` ermöglicht einen Zeilenumbruch.
+
 Durch submit kann die Eingabe des Formulars bestätigt werden.
   
   
