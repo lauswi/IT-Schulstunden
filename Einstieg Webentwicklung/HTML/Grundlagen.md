@@ -65,5 +65,25 @@ Zum Beispiel:
 
 Es kann hier entweder ein Link zu einem Bild von einer Internetseite oder ein Dateipfad für ein Bild von deinem Rechner angegeben werden. Gibst du einen Dateipfad von deinem Rechner an achte darauf, dass du einen sinnvollen Speicherort wählst. 
 
+###### Listen
 
+`<ol>...</ol>` = geordnete Liste
 
+`<ul> ... </ul>` = ungeordnete Liste
+
+`<li> ... </li>` = List Item
+
+Bsp.: 
+```html
+<ol>
+  <li> List Item 1 </li>
+  <li> List Item 2 </li>
+  <li> List Item 3 </li>
+</ol>
+
+<ul>
+  <li> List Item 1 </li>
+  <li> List Item 2 </li>
+  <li> List Item 3 </li>
+</ul>
+```
