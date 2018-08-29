@@ -5,9 +5,10 @@ Was genau ist [HTML](https://de.wikipedia.org/wiki/Hypertext_Markup_Language) un
 ## Aufbau einer Webseite
 
 Es gibt im HTML Code immer einen Start-Tag `<start-tag>` und einen End-Tag `</end-tag>`. 
+In einer HTML-Datei beginnt man damit immer mit `<html>` und endet mit `</html>`.
+Es wird außerdem in `<head>` und `<body>` eingeteilt. 
 
 ```html
-
 <html>
   <head>
         <title> Meine erste Webseite </title>
@@ -87,3 +88,13 @@ Bsp.:
   <li> List Item 3 </li>
 </ul>
 ```
+
+## Verlinkungen
+Über den Tag `<a> ... </a>` lassen sich Links einbinden. 
+```html 
+< a href = "http://www.irgendeinewebseite.de/" target="_blank"> Text des Links </a>```
+
+## Formulare
+
+
+
