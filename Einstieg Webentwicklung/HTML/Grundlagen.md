@@ -4,4 +4,19 @@ Was genau ist [HTML](https://de.wikipedia.org/wiki/Hypertext_Markup_Language) un
 
 ## Aufbau einer Webseite
 
-Es gibt 
+Es gibt im HTML Code immer einen Start-Tag und einen End-Tag. 
+Bsp.: 
+
+```html run
+
+<html>
+  <head>
+        <title> Meine erste Webseite </title>
+  </head>
+  <body>
+  <!--Das ist ein Kommentar-->
+  <p> Hallo Webwelt! </p>
+  
+  </body>
+</html>
+```
