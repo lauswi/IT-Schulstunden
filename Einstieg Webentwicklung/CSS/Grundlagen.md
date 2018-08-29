@@ -84,7 +84,7 @@ Hier wird beispielsweise Rot als Farbe angegeben.
 
 `rgb(0,255,0)` ist grün und `rgb(0,0,255)` ist blau. 
 
-### weitere Attribute
+#### weitere Attribute
 
 - font-size = Schirftgröße
 - font-weight = Transparenz der Schirft (Bsp.: bold, light,...)
@@ -92,3 +92,9 @@ Hier wird beispielsweise Rot als Farbe angegeben.
 - font-family = [Schriftart](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows) (Achtung!: Der Nutzer deiner Webseite muss die Schriftfarbe auch lesen können) 
 
 ## Das Box Modell
+
+
+
+
+
+
