@@ -11,10 +11,10 @@ Zum Beispiel können die CSS Funktionen als Attribute in das HTML Skript eingeba
 ```html
 <h1 style="color: orange;"> Irgendeine Überschrift</h1>
 ```
-Der Text "Irgendeine Überschirft" wirde jetzt in orange angezeigt werden.
+Der Text "Irgendeine Überschirft" wird jetzt in orange angezeigt.
 
 
-Da diese Methode aber bei vielen CSS Befehlen unübersichtlich wird, sollte folgende Methode angewendet werden:
+Da diese Methode aber bei vielen CSS Befehlen unübersichtlich wird, sollte CSS extern eingebunden werden.
 ### Externe Einbindung
 
 
