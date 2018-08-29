@@ -2,6 +2,8 @@
 
 Was genau ist [HTML](https://de.wikipedia.org/wiki/Hypertext_Markup_Language) und wofür wird es verwendet? 
 
+HTML ist eine Programmiersprache, die zur Gliederung einer Websiete verwendet wird. 
+
 ## Aufbau einer Webseite
 
 Es gibt im HTML Code immer einen Start-Tag `<start-tag>` und einen End-Tag `</end-tag>`. 
@@ -92,9 +94,27 @@ Bsp.:
 ## Verlinkungen
 Über den Tag `<a> ... </a>` lassen sich Links einbinden. 
 ```html 
-< a href = "http://www.irgendeinewebseite.de/" target="_blank"> Text des Links </a>```
+< a href = "http://www.irgendeinewebseite.de/" target="_blank"> Text des Links </a>
+```
 
 ## Formulare
 
+Das Element `<form>... </form>` definiert ein Formular. 
+Hierin befinden sich, einfacher Text und Input-Elemente, die Eingabefelder darstellen.
 
+Beispiel:
+```html
+
+<form>
+  Vorname:<br>
+  <input type= "text" name="vorname"><br>
+  Nachname:<br>
+  <input type= "text" name="nachname"><br>
+  <input type= "submit">
+</form>
+```
+
+Durch submit kann die Eingabe des Formulars bestätigt werden.
+  
+  
 
