@@ -3,7 +3,8 @@
 
 Für die Webentwicklung gibt es viele verschiedene Tools, die zur Programmierung verwendet werden können.
 
-- Text Editor [Atom](https://atom.io/)
+- [Atom](https://atom.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - Notepad++
 - Firefox Dev Tools
 
