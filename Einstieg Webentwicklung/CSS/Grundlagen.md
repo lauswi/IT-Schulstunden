@@ -89,11 +89,11 @@ Hier wird beispielsweise Rot als Farbe angegeben.
 - font-size = Schirftgröße
 - font-weight = Transparenz der Schirft (Bsp.: bold, light,...)
 - background-collor = Hintergrundfarbe
-- font-family = [Schriftart](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows) (Achtung!: Der Nutzer deiner Webseite muss die Schriftfarbe auch lesen können) 
+- font-family = [Schriftart](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows) (Achtung! Die schönste Schriftart bei der Entwicklung hilft dir nichts, wenn sie der User nicht hat) 
 
 ## Das Box Modell
 
-
+![](boxmodell.png)
 
 
 
