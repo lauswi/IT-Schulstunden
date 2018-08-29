@@ -56,7 +56,7 @@ Zum Beispiel:
 
 ## Grafiken einbinden
 
-###### Einbinden von Bildern
+#### Einbinden von Bildern
 
 ``` html
 <img src="http://www.link-zu-einem-bild.png">
@@ -65,7 +65,7 @@ Zum Beispiel:
 
 Es kann hier entweder ein Link zu einem Bild von einer Internetseite oder ein Dateipfad für ein Bild von deinem Rechner angegeben werden. Gibst du einen Dateipfad von deinem Rechner an achte darauf, dass du einen sinnvollen Speicherort wählst. 
 
-###### Listen
+#### Listen
 
 `<ol>...</ol>` = geordnete Liste
 
