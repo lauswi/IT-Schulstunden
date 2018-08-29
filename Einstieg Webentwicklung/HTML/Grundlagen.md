@@ -24,6 +24,7 @@ Zwischen den Tags kann Text stehen, der auf der Webseite angezeigt werden soll o
 Hierbei gibt es verschiedene Textformate, die auch durch die Art der Tags festgelegt werden.
 
 `<h1> ... </h1>` = Überschrift
+
 `<p> ... </p>` = Fließtext
 
 ``` html
