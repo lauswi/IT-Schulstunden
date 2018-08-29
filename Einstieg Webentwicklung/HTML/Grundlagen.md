@@ -23,8 +23,8 @@ Es gibt im HTML Code immer einen Start-Tag `<start-tag>` und einen End-Tag `</en
 Zwischen den Tags kann Text stehen, der auf der Webseite angezeigt werden soll oder weitere Tags.
 Hierbei gibt es verschiedene Textformate, die auch durch die Art der Tags festgelegt werden.
 
-- `<h1> ... </h1>` Überschrift
-- `<p> ... </p>` Fließtext
+`<h1> ... </h1>` = Überschrift
+`<p> ... </p>` = Fließtext
 
 ``` html run
 <html>
@@ -41,3 +41,8 @@ Hierbei gibt es verschiedene Textformate, die auch durch die Art der Tags festge
   </body>
 </html>
 ```
+
+`<meta charset= "utf-8"/>` macht es möglich, dass Umlaute, wie Ü, Ä, Ö o. ä. angezeigt werden
+
+## Attribute
+
