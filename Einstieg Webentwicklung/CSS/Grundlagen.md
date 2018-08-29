@@ -67,3 +67,28 @@ Im CSS Dokument:
 color: blue;
 }
 ```
+
+## Farben
+
+Farben können sowohl namentlich, aber auch durch das RGB-Modell angegeben werden. 
+Hier wird die Farbe durch die Angabe von drei Werten "gemischt".
+
+Bsp.: 
+```css
+.p_rot{
+  color: rgb(255,0,0);
+}
+```
+
+Hier wird beispielsweise Rot als Farbe angegeben.
+
+`rgb(0,255,0)` ist grün und `rgb(0,0,255)` ist blau. 
+
+### weitere Attribute
+
+- font-size = Schirftgröße
+- font-weight = Transparenz der Schirft (Bsp.: bold, light,...)
+- background-collor = Hintergrundfarbe
+- font-family = [Schriftart](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows) (Achtung!: Der Nutzer deiner Webseite muss die Schriftfarbe auch lesen können) 
+
+## Das Box Modell
