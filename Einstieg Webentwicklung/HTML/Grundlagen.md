@@ -62,6 +62,16 @@ Außerdem gibt es folgende Attribute:
 - align   = Position (left, center, right)
 - title   = definiert Information über ein Element
 
+### `<div>` Elemente
+
+Ein `<div>` Tag wird für einen Kasten auf einer Webseite verwendet. Dieser dient meistens als Behälter für weitere Elemente. 
+```html
+<div>
+  <h1> Eine Überschrift im div Element </h1>
+  <p> Ein Text im div Element </p>
+</div>
+```
+
 ## Grafiken einbinden
 
 #### Einbinden von Bildern
