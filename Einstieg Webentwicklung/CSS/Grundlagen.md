@@ -24,7 +24,7 @@ Im `<head>` des HTML Dokuments muss eine Referenz auf das CSS Dokument eingebund
 </head>
 ```
 #### Tags
-Kann für einen bestimmten Tag ein Design festgelegt werden, also zum Beispiel für alle Überschriften kann dieser im CSS Dokument als Selector definiert werden.
+Kann für einen bestimmten Tag ein Design festgelegt werden, also zum Beispiel für alle Überschriften, kann dieser im CSS Dokument als Selector definiert werden.
 
 Bsp.: 
 ```css
