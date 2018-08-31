@@ -111,7 +111,7 @@ Bsp.:
 ```html 
 <a href = "http://www.irgendeinewebseite.de/" target="_blank"> Text des Links </a>
 ```
-href ist hier genau wie alt oder align ein Attribut.
+href ist hier genau wie alt oder align ein Attribut. `target="_blank"` bedeutet, dass der Link in einem neuen Tab geöffnet wird 
 ## Formulare
 
 Das Element `<form>... </form>` definiert ein Formular. 
