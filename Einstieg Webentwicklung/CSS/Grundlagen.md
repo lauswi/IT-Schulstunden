@@ -17,7 +17,7 @@ Der Text "Irgendeine Überschirft" wird jetzt in orange angezeigt.
 Da diese Methode aber bei vielen CSS Befehlen unübersichtlich wird, sollte CSS extern eingebunden werden.
 
 ### Externe Einbindung
-Im `<head>` des HTML Dokuments muss eine Referenz auf das CSS Dokument eingebunden werden.
+Externe Einbindung heißt, dass ein zusätzliches Dokument angelegt wird, in dem nur die CSS Befehle festgehalten werden. Im `<head>` des HTML Dokuments muss dann eine Referenz auf dieses CSS Dokument eingebunden werden.
 ```html
 <head>
   <link rel="stylsheet" href="cssdokument.css">
