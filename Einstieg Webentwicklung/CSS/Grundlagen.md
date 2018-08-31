@@ -109,7 +109,3 @@ div{
 ```
 
 Die Elemente können außerdem links, rechts, unten oder oben unterschiedlich groß sein, wie zum Beispiel durch den Befehl `margin-top`.
-
-
-
-
