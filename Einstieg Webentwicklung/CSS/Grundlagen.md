@@ -70,7 +70,7 @@ color: blue;
 
 ## Farben
 
-Farben können sowohl namentlich, aber auch durch das RGB-Modell angegeben werden. 
+Farben können sowohl namentlich, aber auch durch das [RGB-Modell](https://www.w3schools.com/html/html_colors.asp) angegeben werden. 
 Hier wird die Farbe durch die Angabe von drei Werten "gemischt".
 
 Bsp.: 
