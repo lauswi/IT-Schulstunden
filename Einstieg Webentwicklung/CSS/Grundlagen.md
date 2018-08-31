@@ -17,14 +17,14 @@ Der Text "Irgendeine Überschirft" wird jetzt in orange angezeigt.
 Da diese Methode aber bei vielen CSS Befehlen unübersichtlich wird, sollte CSS extern eingebunden werden.
 
 ### Externe Einbindung
-Externe Einbindung heißt, dass ein zusätzliches Dokument angelegt wird, in dem nur die CSS Befehle festgehalten werden. Im `<head>` des HTML Dokuments muss dann eine Referenz auf dieses CSS Dokument eingebunden werden.
+Externe Einbindung heißt, dass ein zusätzliches Skript angelegt wird, in dem nur die CSS Befehle festgehalten werden. Im `<head>` des HTML Dokuments muss dann eine Referenz auf dieses CSS Dokument eingebunden werden.
 ```html
 <head>
   <link rel="stylsheet" href="cssdokument.css">
 </head>
 ```
 #### Tags
-Kann für einen bestimmten Tag ein Design festgelegt werden, also zum Beispiel für alle Überschriften, kann dieser im CSS Dokument als Selector definiert werden.
+Kann für einen bestimmten Tag ein Design festgelegt werden, also zum Beispiel für alle Überschriften, kann dieser im CSS Skript als Selector definiert werden.
 
 Bsp.: 
 ```css
@@ -35,7 +35,7 @@ h1{
 }
 ```
 
-Alle Überschirften mit dem Tag `<h1>` würden hiernach mit grüner schriftfarbe, blauer Hintergrundfarbe und in der schirftart arial angezeigt. 
+Alle Überschirften mit dem Tag `<h1>` würden hiernach mit grüner Schriftfarbe, blauer Hintergrundfarbe und in der Schirftart Arial angezeigt. 
 
 #### IDs
 Alternativ kann eine ID verwendet werden, um verschiedenen Elementen ein Design zuzuordnen. 
@@ -44,7 +44,7 @@ Im HTML Dokument:
 ```html
 <p id="blauer_absatz"> Das ist ein blauer Absatz </p>
 ```
-Die ID kann dann folgendermaßen im CSS Dokument definiert werden.
+Die ID kann dann folgendermaßen im CSS Dokument definiert werden:
 
 ```css
 #blauer_absatz {
@@ -86,9 +86,9 @@ Hier wird beispielsweise Rot als Farbe angegeben.
 
 #### weitere Attribute
 
-- font-size = Schirftgröße
+- font-size = Schriftgröße
 - font-weight = Transparenz der Schirft (Bsp.: bold, light,...)
-- background-collor = Hintergrundfarbe
+- background-color = Hintergrundfarbe
 - font-family = [Schriftart](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows) (Achtung! Die schönste Schriftart bei der Entwicklung hilft dir nichts, wenn sie der User nicht hat) 
 
 ## Das Box Modell
