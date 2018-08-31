@@ -64,7 +64,7 @@ Außerdem gibt es folgende Attribute:
 
 ### `<div>` Elemente
 
-Ein `<div>` Tag wird für einen Kasten auf einer Webseite verwendet. Dieser dient meistens als Behälter für weitere Elemente. 
+Ein `<div>` Tag dient meistens als Behälter für weitere Elemente und ist auf der Webseite je nach Gestaltung als eine Art Kasten zu sehen. 
 ```html
 <div>
   <h1> Eine Überschrift im div Element </h1>
