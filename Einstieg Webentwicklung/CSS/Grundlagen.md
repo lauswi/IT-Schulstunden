@@ -83,7 +83,7 @@ Bsp.:
 Hier wird beispielsweise Rot als Farbe angegeben.
 
 `rgb(0,255,0)` ist grün und `rgb(0,0,255)` ist blau. 
-Wie sich die Farben zusammensetzen kann auch unter https://www.w3schools.com/html/html_colors.asp beim RGB Modell nachsehen.  
+Wie sich die Farben zusammensetzen kann auch unter https://www.w3schools.com/html/html_colors.asp beim RGB Modell nachgesehen werden.  
 
 #### weitere Attribute
 
